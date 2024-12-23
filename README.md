@@ -93,11 +93,12 @@ Thank you for using the Inventory Management System. Goodbye!
 
 ## SCREENSHOT :
 
-**IMG 1**
-![malar 1](https://github.com/user-attachments/assets/fc84b6ca-efbb-4da6-8fb1-9855a37dafb9) 
+**img 1**
+![p1](https://github.com/user-attachments/assets/b1fe2e0a-41da-496f-b094-12c73cca172c)
 
-**IMG 2**
-![malar 2](https://github.com/user-attachments/assets/c13789c6-b59d-4a5e-98d8-b02699897d20) 
+**img 2**
+![p2](https://github.com/user-attachments/assets/b7dd0a2c-075b-443e-9741-be279e70a6c9) 
 
-**IMG 3**
-![malar 3](https://github.com/user-attachments/assets/e65bd565-2715-44d1-a684-1ce44cd90590)
+**img 3**
+![p3](https://github.com/user-attachments/assets/94a5f1c6-14fd-4584-8d21-db6e0ab51d27)
+
